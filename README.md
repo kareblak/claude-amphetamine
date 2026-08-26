@@ -28,7 +28,7 @@ Design properties:
 ## Install
 
 ```
-/plugin marketplace add kareblakstad/claude-amphetamine
+/plugin marketplace add kareblak/claude-amphetamine
 /plugin install amphetamine@claude-amphetamine
 ```
 
