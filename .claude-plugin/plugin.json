@@ -1,0 +1,10 @@
+{
+  "name": "amphetamine",
+  "description": "Keep your Mac awake via Amphetamine while Claude Code agents are working. Refcounts concurrent sessions, uses timed heartbeat sessions so a crashed agent never pins the machine awake, and never touches Amphetamine sessions you started yourself.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kåre Blakstad",
+    "email": "kaare@griegconnect.com"
+  },
+  "license": "MIT"
+}
